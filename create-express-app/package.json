@@ -1,0 +1,46 @@
+{
+  "name": "@nish34/create-express-app",
+  "version": "1.3.0",
+  "description": "A powerful CLI tool to generate scalable Express.js applications with various configurations",
+  "main": "index.js",
+  "bin": {
+    "create-express-app": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "generator",
+    "cli",
+    "boilerplate",
+    "starter",
+    "typescript",
+    "javascript",
+    "mongodb",
+    "postgresql",
+    "mysql",
+    "api",
+    "rest",
+    "mvc",
+    "clean-architecture"
+  ],
+  "author": "nish34",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.5"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nish34/create-express-app"
+  },
+  "bugs": {
+    "url": "https://github.com/nish34/create-express-app/issues"
+  },
+  "homepage": "https://github.com/nish34/create-express-app#readme"
+}

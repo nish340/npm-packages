@@ -1,0 +1,28 @@
+{
+  "name": "@nish34/express-api-throttle",
+  "version": "1.0.0",
+  "description": "Advanced Rate Limiting per Route/User/IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "rate-limit",
+    "throttle",
+    "security",
+    "ddos"
+  ],
+  "author": "nish34",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "optionalDependencies": {
+    "redis": "^4.6.7"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}

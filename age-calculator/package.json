@@ -1,0 +1,19 @@
+{
+  "name": "@nish34/age-calculator",
+  "version": "1.0.1",
+  "description": "A simple age calculator utility",
+  "main": "index.js",
+  "keywords": [
+    "age",
+    "calculator",
+    "date",
+    "utility"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@nish34/age-calculator": "^1.0.0",
+    "i": "^0.3.7",
+    "npm": "^10.9.2"
+  }
+}

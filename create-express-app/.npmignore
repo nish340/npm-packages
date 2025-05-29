@@ -1,0 +1,21 @@
+# Development files
+.git/
+.github/
+.vscode/
+node_modules/
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
