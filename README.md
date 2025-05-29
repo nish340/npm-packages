@@ -1,4 +1,4 @@
-# 🧰 Nishchay Sharma's NPM Packages
+# 🧰 NPM Packages
 
 Welcome! I'm **Nishchay Sharma** (`@nish34`) — a backend developer focused on building reusable, production-grade NPM packages for Express.js and Node.js projects.
 
